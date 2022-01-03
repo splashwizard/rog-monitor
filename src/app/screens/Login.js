@@ -13,7 +13,7 @@ import JoinRogModal from '../components/modals/JoinRogModal';
 import RequestPasswordResetModal from '../components/modals/RequestPasswordResetModal';
 
 const layout = {
-  labelCol: {
+  labelCol: { // label Col
     span: 6,
   },
   wrapperCol: {
